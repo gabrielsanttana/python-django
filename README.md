@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.django-rest-framework.org/img/logo.png" width="210" height="100"/>
+  <img src="https://github.com/gabrielsanttana/python-django/blob/master/djangorest.png?raw=true" width="210" height="100"/>
 </div>
 
 ###
