@@ -4,4 +4,4 @@
 
 ###
 
-🐍 Building a RESTful API in Python with Django framework
+<div align="center">🐍 Building a RESTful API in Python with Django framework</div>
